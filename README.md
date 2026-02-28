@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 I'm Soundarya Karthikeyan pursuing Master of Computer Applications of batch 2024-2026 at Anna University. Aspiring AI Engineer and Machine Learning Enthusiast. I have completed several projects on FullStack (MERN), Machine Learning and practical knowledge of Generative Artificial Intelligence.  
 
 
